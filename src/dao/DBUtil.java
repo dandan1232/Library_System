@@ -15,12 +15,14 @@ public class DBUtil {
 	public static void main(String[] args) {
 		DBUtil dbUtil = new DBUtil();
 		dbUtil.getConnection();
+
 	}
 	
 	private String dirver = "com.mysql.cj.jdbc.Driver";
 	private String url = "jdbc:mysql://localhost:3306/library_system?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai";
 	private String user = "root";
 	private String password = "ldd123789dd";
+
 
 	
 	/*

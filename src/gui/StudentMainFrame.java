@@ -84,6 +84,7 @@ public class StudentMainFrame extends JFrame {
 		contentPane.add(panelFunction);
 		// 存放图片的面板
 		BackgroundPanel backgroundPanel = new BackgroundPanel();
+//		backgroundPanel.setImage(getToolkit().getImage(getClass().getResource("http://pic-ldd-test.oss-cn-hangzhou.aliyuncs.com/a.jpg")));
 		backgroundPanel.setImage(getToolkit().getImage(getClass().getResource("/image/励志图.jpg")));
 		backgroundPanel.setBounds(10, 230, 200, 320);
 		backgroundPanel.setBackground(Color.cyan);
@@ -130,7 +131,8 @@ public class StudentMainFrame extends JFrame {
 
 			private static final long serialVersionUID = 1L;
 
-			public boolean isCellEditable(int rowIndex, int columnIndex) {
+			@Override
+            public boolean isCellEditable(int rowIndex, int columnIndex) {
 				return false;
 			}
 		};

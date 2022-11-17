@@ -169,7 +169,8 @@ public class SelectBookFrame extends JFrame {
 		JScrollPane scrollPane = new JScrollPane();
 		model = new BookTable() {
 
-			public boolean isCellEditable(int rowIndex, int columnIndex) {
+			@Override
+            public boolean isCellEditable(int rowIndex, int columnIndex) {
 				return false;
 			}
 		};

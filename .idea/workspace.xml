@@ -3,6 +3,29 @@
   <component name="ChangeListManager">
     <list default="true" id="e059051d-8c53-49bf-a795-cc8b3a788ad1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/dao/DBUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/dao/DBUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/SelectBookFrame$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/SelectBookFrame$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/SelectBookFrame$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/SelectBookFrame$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/SelectBookFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/SelectBookFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao/DBUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/DBUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/ManagerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/ManagerMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/SelectBookFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/SelectBookFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/StudentMainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/StudentMainFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +118,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LogSql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Table.LogSql" />
+      <module name="practicaltraining2_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Table.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dao.LogUtil" />
+      <module name="practicaltraining2_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="D:\ProfessionalLearning\openjdk-8\openjdk-8\jre" />
       <option name="MAIN_CLASS_NAME" value="gui.LoginFrame" />
@@ -113,11 +162,15 @@
       <item itemvalue="Application.BookTypeManager" />
       <item itemvalue="Application.LoginFrame" />
       <item itemvalue="Application.DBUtil" />
+      <item itemvalue="Application.LogUtil" />
+      <item itemvalue="Application.LogSql" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.LoginFrame" />
+        <item itemvalue="Application.LogSql" />
         <item itemvalue="Application.DBUtil" />
+        <item itemvalue="Application.LogUtil" />
         <item itemvalue="Application.BookTypeManager" />
       </list>
     </recent_temporary>
@@ -159,7 +212,15 @@
       <workItem from="1666061766728" duration="488000" />
       <workItem from="1666062990136" duration="1660000" />
       <workItem from="1666072203337" duration="5890000" />
-      <workItem from="1666081877244" duration="631000" />
+      <workItem from="1666081877244" duration="947000" />
+      <workItem from="1666228956583" duration="2014000" />
+      <workItem from="1666665094837" duration="6284000" />
+      <workItem from="1666831283433" duration="2235000" />
+      <workItem from="1667269413267" duration="9481000" />
+      <workItem from="1667885984002" duration="4098000" />
+      <workItem from="1668493785274" duration="666000" />
+      <workItem from="1668500037923" duration="1375000" />
+      <workItem from="1668645970437" duration="775000" />
     </task>
     <servers />
   </component>
