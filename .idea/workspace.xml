@@ -3,29 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e059051d-8c53-49bf-a795-cc8b3a788ad1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/dao/DBUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/dao/DBUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/ManagerMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/SelectBookFrame$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/SelectBookFrame$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/SelectBookFrame$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/SelectBookFrame$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/SelectBookFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/SelectBookFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practicaltraining2_2/gui/StudentMainFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/DBUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/DBUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gui/ManagerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/ManagerMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gui/SelectBookFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/SelectBookFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gui/StudentMainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/StudentMainFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,20 +68,7 @@
       <recent name="D:\javastudy\practicaltraining2_2\src\entity" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LoginFrame">
-    <configuration name="BookTypeManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gui.BookTypeManager" />
-      <module name="practicaltraining2_2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MainClass">
     <configuration name="DBUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dao.DBUtil" />
       <module name="practicaltraining2_2" />
@@ -158,20 +122,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.MainClass" />
+      <module name="practicaltraining2_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.BookTypeManager" />
       <item itemvalue="Application.LoginFrame" />
       <item itemvalue="Application.DBUtil" />
       <item itemvalue="Application.LogUtil" />
       <item itemvalue="Application.LogSql" />
+      <item itemvalue="Application.MainClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.LoginFrame" />
         <item itemvalue="Application.LogSql" />
         <item itemvalue="Application.DBUtil" />
         <item itemvalue="Application.LogUtil" />
-        <item itemvalue="Application.BookTypeManager" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +208,10 @@
       <workItem from="1667885984002" duration="4098000" />
       <workItem from="1668493785274" duration="666000" />
       <workItem from="1668500037923" duration="1375000" />
-      <workItem from="1668645970437" duration="775000" />
+      <workItem from="1668645970437" duration="1071000" />
+      <workItem from="1668647282667" duration="607000" />
+      <workItem from="1668661653362" duration="1953000" />
+      <workItem from="1669095280702" duration="1559000" />
     </task>
     <servers />
   </component>
